@@ -11,6 +11,7 @@ namespace HelloGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world of GIT");
+            Console.WriteLine("branch1");
         }
     }
 }
